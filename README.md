@@ -99,3 +99,11 @@ If the Excel file is open while running the script, the code may show errors or 
 
 ## 👨‍💻 Developed By
 SkillsByDhiraj
+
+## 📸 Input Excel Setup
+
+![Input Sheet](input-sheet.png)
+
+## 📸 Extracted Output
+
+![Output Sheet](output-sheet.png)
